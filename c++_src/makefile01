@@ -1,0 +1,2 @@
+introduction: introduction.cc
+    g++ -Wall -o introduction introduction.cc
